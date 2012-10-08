@@ -5,4 +5,5 @@
 3. create a ~/.ssh/ssh-https-tunnel and specify the proxy, please refer to ./configuration/ssh-https-tunnel
 
 4. setup git repo step by step, https://help.github.com/articles/create-a-repo
+(Note that you need to replace protocol header https:// to ssh://git@ while executing operation git remote add xxxxxxx)
   
