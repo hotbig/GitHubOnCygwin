@@ -1,0 +1,6 @@
+1. generate SSH RSA key, refer to https://help.github.com/articles/generating-ssh-keys
+
+2. create a ~/.ssh/config configuration file, please refer to ./configuration/config
+
+3. create a ~/.ssh/ssh-https-tunnel and specify the proxy, please refer to ./configuration/ssh-https-tunnel
+  
